@@ -3,4 +3,4 @@ b = 30
 c = a+b
 print(c)
 
-// Result c=30
+// Result c=40
